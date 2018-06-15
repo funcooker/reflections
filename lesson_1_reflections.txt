@@ -1,0 +1,3 @@
+Question: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Answer - I already knew that the output of the code was behaving differently.
+Seeing the diff between the files just gave me a short list of possible causes to focus on.
